@@ -1,6 +1,10 @@
-## Olá, eu sou o Maycon
-- 🔭 formado pela ETEC em "desenvolvimento de sistemas".
-- 🔭 Cursando "Tecnologia em Big Data e Inteligência Analítica"
-- 💬 Tenho 18 anos.
-- ⚡ Atleta de futebol.
+🎓 Data Science student at Fatec | Software Development Technician
+
+📊 Interested in Data Analytics, Business Intelligence and Data Engineering.
+
+💻 Working with Python, SQL, Power BI and Excel.
+
+🚀 Building data-driven projects to transform raw data into valuable insights.
+
+📚 Always learning and developing new skills.
 
