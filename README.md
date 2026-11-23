@@ -68,4 +68,4 @@ Em breve, novos projetos estarão disponíveis neste perfil!
 ---
 
 *Transformando dados em conhecimento, um projeto de cada vez.* 🚀
-<!-- Meu primeiro commit utilizando Git e VS Code -->
+
